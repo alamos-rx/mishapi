@@ -24,7 +24,7 @@ An **agentic first** REST API client: anything you can do in the app, an AI agen
 
 ### From GitHub Releases (recommended)
 
-Download the package for your system from [Releases](https://github.com/esnorki2008/mishapi/releases), unpack it and run the installer. No admin rights needed.
+Download the package for your system from [Releases](https://github.com/alamos-rx/mishapi/releases), unpack it and run the installer. No admin rights needed.
 
 | System | Package | Install | Installed to |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Requirements:
 - `git` on the PATH, only if you sync repos.
 
 ```sh
-git clone https://github.com/esnorki2008/mishapi.git
+git clone https://github.com/alamos-rx/mishapi.git
 cd mishapi
 
 # Build and install for your user (same result as the package)

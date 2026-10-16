@@ -24,7 +24,7 @@ Cliente de APIs REST **agentic first**: todo lo que puedes hacer en la app tambi
 
 ### Desde GitHub Releases (recomendado)
 
-Descarga el paquete de tu sistema desde [Releases](https://github.com/esnorki2008/mishapi/releases), descomprímelo y ejecuta el instalador. No necesitas permisos de administrador.
+Descarga el paquete de tu sistema desde [Releases](https://github.com/alamos-rx/mishapi/releases), descomprímelo y ejecuta el instalador. No necesitas permisos de administrador.
 
 | Sistema | Paquete | Instalar | Queda en |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Requisitos:
 - `git` en el PATH, solo si vas a sincronizar repos.
 
 ```sh
-git clone https://github.com/esnorki2008/mishapi.git
+git clone https://github.com/alamos-rx/mishapi.git
 cd mishapi
 
 # Compila e instala para tu usuario (mismo resultado que el paquete)

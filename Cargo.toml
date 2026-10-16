@@ -5,7 +5,7 @@ edition = "2024"
 description = "Cliente de APIs REST agentic first: lo usan igual de bien una persona y un agente de IA."
 license-file = "LICENSE"
 authors = ["gatio-labs"]
-repository = "https://github.com/esnorki2008/mishapi"
+repository = "https://github.com/alamos-rx/mishapi"
 
 [dependencies]
 eframe = "0.31"
