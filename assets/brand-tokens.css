@@ -1,0 +1,18 @@
+/* gatio-labs · Identidad visual v1.0 · Importa este archivo antes de tus estilos. */
+:root {
+  --gatio-paper: #F4F2EC;
+  --gatio-matcha: #253C32;
+  --gatio-pistachio: #BDD5A4;
+  --gatio-papaya: #F47B63;
+  --gatio-ink: #141414;
+  --gatio-text-secondary: #63635C;
+  --gatio-border: #D8D9CE;
+  --gatio-font-sans: Arial, Helvetica, sans-serif;
+  --gatio-font-serif: Georgia, 'Times New Roman', serif;
+  --gatio-font-mono: Consolas, 'Liberation Mono', monospace;
+  --gatio-title-tracking: -0.055em;
+  --gatio-title-leading: 1.05;
+  --gatio-body-leading: 1.7;
+  --gatio-space-unit: 8px;
+  --gatio-button-radius: 32px;
+}

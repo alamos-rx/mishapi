@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Logo alternativo de gatio-labs: gato dormido sobre un teclado con el símbolo de código">
+<circle cx="100" cy="100" r="100" fill="#141414"></circle>
+<g transform="rotate(-7 96 104) translate(30 38) scale(0.66)">
+<path d="M 100 162 C 62 162 38 142 38 112 C 38 98 41 86 46 76 L 50 47 Q 51 38 59 42 L 82 60 Q 100 55 118 60 L 141 42 Q 149 38 150 47 L 154 76 C 159 86 162 98 162 112 C 162 142 138 162 100 162 Z" fill="#F4F2EC"></path>
+<path d="M 62 104 Q 74 116 86 104" fill="none" stroke="#141414" style="stroke-width: 10px; stroke-linecap: round; stroke-linejoin: round"></path>
+<path d="M 114 104 Q 126 116 138 104" fill="none" stroke="#141414" style="stroke-width: 10px; stroke-linecap: round; stroke-linejoin: round"></path>
+<path d="M 94 120 L 106 120 L 100 127 Z" fill="#141414" stroke="#141414" style="stroke-width: 3px; stroke-linejoin: round"></path>
+</g>
+<path d="M 140 54 L 152 54 L 140 66 L 152 66" fill="none" stroke="#F4F2EC" style="stroke-width: 5px; stroke-linecap: round; stroke-linejoin: round"></path>
+<path d="M 160 38 L 167 38 L 160 45 L 167 45" fill="none" stroke="#F4F2EC" style="stroke-width: 4px; stroke-linecap: round; stroke-linejoin: round"></path>
+<rect x="32" y="126" width="136" height="36" rx="8" fill="#F4F2EC" stroke="#141414" style="stroke-width: 6px"></rect>
+<path d="M 84 140 L 77 146 L 84 152" fill="none" stroke="#141414" style="stroke-width: 4.5px; stroke-linecap: round; stroke-linejoin: round"></path>
+<path d="M 103 138 L 97 154" fill="none" stroke="#141414" style="stroke-width: 4.5px; stroke-linecap: round; stroke-linejoin: round"></path>
+<path d="M 116 140 L 123 146 L 116 152" fill="none" stroke="#141414" style="stroke-width: 4.5px; stroke-linecap: round; stroke-linejoin: round"></path>
+<ellipse cx="63" cy="127" rx="15" ry="9" fill="#F4F2EC" stroke="#141414" style="stroke-width: 5px"></ellipse>
+<ellipse cx="133" cy="127" rx="15" ry="9" fill="#F4F2EC" stroke="#141414" style="stroke-width: 5px"></ellipse>
+</svg>
